@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyae)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyae&show_icons=true&theme=default&bg_color=90,#ff9191,#ff5291)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cyae/cyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
