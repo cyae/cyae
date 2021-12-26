@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![cyae's github stats](https://github-readme-stats.vercel.app/api?username=cyae&show_icons=true&theme=vue)](https://github.com/cyae)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyae&layout=compact&include_forks=true)](https://github.com/cyae)
+[![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=cyae&layout=compact&theme=vue&include_forks=true)](https://github.com/cyae)
 
 <!--
 **cyae/cyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
