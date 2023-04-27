@@ -1,5 +1,5 @@
 <div>
-  <img src="./pic.svg" style="width: 50%;" align="right">
+  <img src="./pic.svg" style="width: 50;" align="right">
 </div>
 
 # Hiya! 👋
@@ -11,7 +11,7 @@
 I'm cyae!
 
 - 🔭 My research interests include transfer learning, generative model.
-- 🌱 I'm currently working at AntGroup, an <b>fintech</b> company. Before that, I took internship at Huawei Cloud Ltd.
+- 🌱 I'm currently working at AntGroup, a <b>fintech</b> company. Before that, I took internship at a cloud-infra company.
 - ❤️ I like eating 🍉, raising 🐈, playing 🏸, sleeping in 🛌 and running 🏃‍♂️!
 
 ## Stats
