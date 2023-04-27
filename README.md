@@ -1,40 +1,4 @@
-<style>
-#cube {
-  position: relative;
-  float: right;
-  top: 20px;
-  transform-style: preserve-3d;
-  animation: spin 20s linear infinite;
-}
-
-#cube > div {
-  position: absolute;
-  transform-style: preserve-3d;
-}
-
-@keyframes spin {
-  from {
-    transform: rotateX(-0.1turn) rotateY(0turn);
-  }
-  to {
-    transform: rotateX(-0.1turn) rotateY(1turn);
-  }
-}
-
-/* unspinning */
-#cube > div > div {
-  animation: un-spin 20s linear infinite;
-}
-
-@keyframes un-spin {
-  from {
-    transform: rotateY(0turn);
-  }
-  to {
-    transform: rotateY(-1turn);
-  }
-}
-</style>
+<link rel="stylesheet" href="./rotate.css">
 
 <a href="https://github.com/cyae">
     <img align="left" src="https://komarev.com/ghpvc/?username=cyae&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
@@ -83,12 +47,12 @@
 ---
 
 <div align="right">
-    <a href="https://github.com/cyae">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             src="https://github-readme-stats-cyae.vercel.app/api?username=cyae&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&card_width=430&exclude_repo=github-readme-stats" />
     </a>
     <br>
-    <a href="https://github.com/cyae">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-cyae.vercel.app/api/top-langs/?username=cyae&layout=compact&theme=transparent&langs_count=10&card_width=438&exclude_repo=github-readme-stats" />
     </a>
 </div>
