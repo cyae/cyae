@@ -1,0 +1,69 @@
+<svg fill="none" viewBox="0 0 500 500" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes spin {
+            from {
+                transform: rotateX(-0.1turn) rotateY(0turn);
+            }
+            to {
+                transform: rotateX(-0.1turn) rotateY(1turn);
+            }
+        }
+        .cube {
+            position: relative;
+            float: right;
+            top: 20px;
+            transform-style: preserve-3d;
+            animation: spin 20s linear infinite;
+        }
+        .inner {
+            position: absolute;
+            transform-style: preserve-3d;
+        }
+        @keyframes un-spin {
+            from {
+                transform: rotateY(0turn);
+            }
+            to {
+                transform: rotateY(-1turn);
+            }
+        }
+        .emoji {
+            animation: un-spin 20s linear infinite;
+        }
+      </style>
+
+      <div class="cube" style="width: 4em; height: 8em;">
+        <div class="inner" style="transform: translate3d(2em, 2em, 0em)">
+          <div class="emoji">🔭</div>
+        </div>
+        <div class="inner" style="transform: translate3d(0em, 0em, 2em)">
+          <div class="emoji">🌠</div>
+        </div>
+        <div class="inner" style="transform: translate3d(4em, 0em, 2em)">
+          <div class="emoji">🪐</div>
+        </div>
+        <div class="inner" style="transform: translate3d(0em, 4em, 2em)">
+          <div class="emoji">🌍</div>
+        </div>
+        <div class="inner" style="transform: translate3d(4em, 4em, 2em)">
+          <div class="emoji">🌞</div>
+        </div>
+        <div class="inner" style="transform: translate3d(0em, 0em, -2em)">
+          <div class="emoji">🌛</div>
+        </div>
+        <div class="inner" style="transform: translate3d(4em, 0em, -2em)">
+          <div class="emoji">🛸</div>
+        </div>
+        <div class="inner" style="transform: translate3d(0em, 4em, -2em)">
+          <div class="emoji">🚀</div>
+        </div>
+        <div class="inner" style="transform: translate3d(4em, 4em, -2em)">
+          <div class="emoji">🌌</div>
+        </div>
+      </div>
+      
+    </div>
+  </foreignObject>
+</svg>
