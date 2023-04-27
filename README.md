@@ -6,4 +6,4 @@ I am interested to be a full stack developer, and I am now focusing on Java for 
 
 [![Top Langs](https://github-readme-stats-cyae.vercel.app/api/top-langs/?username=cyae&layout=compact&theme=transparent&langs_count=10&card_width=438&exclude_repo=github-readme-stats&hide=Dockerfile)](https://github.com/cyae)
 
-[![Top Langs](https://github-readme-stats-cyae.vercel.app/api/top-langs/?username=cyae&layout=compact&theme=transparent&langs_count=10&card_width=438&exclude_repo=github-readme-stats)](https://github.com/cyae)
+[![Top Langs](https://github-readme-stats-cyae.vercel.app/api/top-langs/?username=cyae&layout=compact&theme=transparent&langs_count=10&card_width=438&exclude_repo=github-readme-stats&hide=Python)](https://github.com/cyae)
