@@ -36,10 +36,10 @@
 
       <div class="cube" style="width: 6em; height: 6em;">
         <div class="inner" style="transform: translate3d(0em, 0em, 2em)">
-          <div class="emoji">🌠</div>
+          <div class="emoji">🌌</div>
         </div>
         <div class="inner" style="transform: translate3d(4em, 0em, 2em)">
-          <div class="emoji">🪐</div>
+          <div class="emoji">🚀</div>
         </div>
         <div class="inner" style="transform: translate3d(0em, 4em, 2em)">
           <div class="emoji">🌍</div>
@@ -57,10 +57,10 @@
           <div class="emoji">🛸</div>
         </div>
         <div class="inner" style="transform: translate3d(0em, 4em, -2em)">
-          <div class="emoji">🚀</div>
+          <div class="emoji">🪐</div>
         </div>
         <div class="inner" style="transform: translate3d(4em, 4em, -2em)">
-          <div class="emoji">🌌</div>
+          <div class="emoji">🌠</div>
         </div>
       </div>
       
